@@ -1,0 +1,13 @@
+1.Using the function strcar(str1, str2) we can concatenate two strings. It  deletes the \0 from the first string and merges two strings
+
+2. I think it will be 0 because it is undeclared.
+
+3.You need two integers which when multiplied equals 64 so like int a[8][8];or int a [4][16
+
+4.A. strcmp() Compares two strings, if they are identical it becomes true, if they are not it becomes false.
+
+4.B. fgets() It is scanf for strings, scans the string input. It scans  the \n at the end. That needs to be changed to \0.
+
+4.C. strcat() Concatenates two strings. It deletes the \0 from the first    string.
+
+4.D. strlen() Tells us the length of the string. Sum of all letters and     spaces.
